@@ -22,6 +22,10 @@ Thực hiện bởi [Tên ứng viên](https://github.com/username_ung_vien)
 
 Trainee tự tổng kết một số kiến thức học được qua bài tập
 
+## Todo
+
+Ý tưởng có thể áp dụng thêm với bài tập, phát triển thêm tính năng, mở rộng trường hợp sử dụng, ...
+
 ## Credit
 
 - Danh sách các repo, phần mềm đã sử dụng khi thực hiện bài tập
