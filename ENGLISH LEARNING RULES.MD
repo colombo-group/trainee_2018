@@ -21,3 +21,7 @@
 
 - https://guides.github.com/features/mastering-markdown/
 - https://help.github.com/articles/about-pull-requests/
+
+## Tracking
+
+- [English](https://docs.google.com/spreadsheets/d/1k4slXZfZuhqLkFsnoK9cAad8mwnNkisbCM_x99KQCFg/edit#gid=1569934978)
